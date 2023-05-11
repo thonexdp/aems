@@ -150,19 +150,7 @@
 
                       </div>
                     </div>
-
-
-
-                   
-             
-
-    
                  @include('layouts.scripts')
-                    
-
-
-                
-
+                 @stack('scripts')        
   </body>
-  @include('includes.modal.users')
 </html>

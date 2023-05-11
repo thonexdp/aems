@@ -72,7 +72,7 @@
                         
                           
                             <li >
-                              <a class="sidenav-item-link" href="email-details.html">
+                              <a class="sidenav-item-link" href="/users/staff">
                                 <span class="nav-text">Staff</span>
                                 
                               </a>
@@ -84,7 +84,7 @@
                         
                           
                             <li >
-                              <a class="sidenav-item-link" href="email-compose.html">
+                              <a class="sidenav-item-link" href="/users/students">
                                 <span class="nav-text">Students</span>
                                 
                               </a>
@@ -103,7 +103,7 @@
                 
                   <li
                    >
-                    <a class="sidenav-item-link" href="contacts.html">
+                    <a class="sidenav-item-link" href="/programs">
                       <i class="mdi mdi-phone"></i>
                       <span class="nav-text"> Programs</span>
                     </a>
@@ -115,7 +115,7 @@
                 
                   <li
                    >
-                    <a class="sidenav-item-link" href="team.html">
+                    <a class="sidenav-item-link" href="/colleges">
                       <i class="mdi mdi-account-group"></i>
                       <span class="nav-text">Colleges</span>
                     </a>
@@ -127,13 +127,13 @@
                 
                   <li
                    >
-                    <a class="sidenav-item-link" href="calendar.html">
+                    <a class="sidenav-item-link" href="/announcement">
                       <i class="mdi mdi-calendar-check"></i>
                       <span class="nav-text">Announcement</span>
                     </a>
                   </li>
                   <li>
-                    <a class="sidenav-item-link" href="calendar.html">
+                    <a class="sidenav-item-link" href="/evaluation">
                       <i class="mdi mdi-calendar-check"></i>
                       <span class="nav-text">Evaluations</span>
                     </a>
