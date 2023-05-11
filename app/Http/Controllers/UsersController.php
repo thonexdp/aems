@@ -15,6 +15,14 @@ class UsersController extends Controller
     {
         return view('users.faculty.index');
     }
+    public function s_index()
+    {
+        return view('users.staff.index');
+    }
+    public function st_index()
+    {
+        return view('users.students.index');
+    }
 
     /**
      * Show the form for creating a new resource.

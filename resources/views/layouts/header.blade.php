@@ -14,6 +14,10 @@
     <link href="{{asset('plugins/nprogress/nprogress.css') }}" rel="stylesheet" />
     
     
+  
+    <!-- PLUGINS CSS STYLE -->
+    
+    <!-- MONO CSS -->
     
     
     <link href="{{asset('plugins/DataTables/DataTables-1.10.18/css/jquery.dataTables.min.css') }}" rel="stylesheet" />
@@ -43,4 +47,7 @@
   
   
     <script src="{{asset('plugins/nprogress/nprogress.js') }}"></script>
+
+
+
   </head>
